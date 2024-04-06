@@ -20,7 +20,8 @@ The Family Travel Tracker App is a web application designed to help families kee
 ## Installation
 1. Clone the repository:
 ```bash
-git clone
+git clone git clone https://github.com/adityasingh151/family-travel-tracker-app.git
+
 ```
 2. Install Node.js and npm if not already installed.
 3. Install PostgreSQL and set up a database named 'world'.
